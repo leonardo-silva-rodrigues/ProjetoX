@@ -1,0 +1,12 @@
+C:\Users\sivis\OneDrive\Desktop\projetoX\ProjetoX\X.Manager\bin\Debug\net7.0\X.Manager.deps.json
+C:\Users\sivis\OneDrive\Desktop\projetoX\ProjetoX\X.Manager\bin\Debug\net7.0\X.Manager.dll
+C:\Users\sivis\OneDrive\Desktop\projetoX\ProjetoX\X.Manager\bin\Debug\net7.0\X.Manager.pdb
+C:\Users\sivis\OneDrive\Desktop\projetoX\ProjetoX\X.Manager\obj\Debug\net7.0\X.Manager.csproj.AssemblyReference.cache
+C:\Users\sivis\OneDrive\Desktop\projetoX\ProjetoX\X.Manager\obj\Debug\net7.0\X.Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sivis\OneDrive\Desktop\projetoX\ProjetoX\X.Manager\obj\Debug\net7.0\X.Manager.AssemblyInfoInputs.cache
+C:\Users\sivis\OneDrive\Desktop\projetoX\ProjetoX\X.Manager\obj\Debug\net7.0\X.Manager.AssemblyInfo.cs
+C:\Users\sivis\OneDrive\Desktop\projetoX\ProjetoX\X.Manager\obj\Debug\net7.0\X.Manager.csproj.CoreCompileInputs.cache
+C:\Users\sivis\OneDrive\Desktop\projetoX\ProjetoX\X.Manager\obj\Debug\net7.0\X.Manager.dll
+C:\Users\sivis\OneDrive\Desktop\projetoX\ProjetoX\X.Manager\obj\Debug\net7.0\refint\X.Manager.dll
+C:\Users\sivis\OneDrive\Desktop\projetoX\ProjetoX\X.Manager\obj\Debug\net7.0\X.Manager.pdb
+C:\Users\sivis\OneDrive\Desktop\projetoX\ProjetoX\X.Manager\obj\Debug\net7.0\ref\X.Manager.dll

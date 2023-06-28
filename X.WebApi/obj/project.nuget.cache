@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Bp/Yfmrq352oRzZ+Ko9YMFS2nFWi8Vixt2Jbhcq7whI/VT7Vrg0JliuLZ6NyBwWedVCdC6Sc+fOFG25lcPj1DA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sivis\\OneDrive\\Desktop\\projetoX\\ProjetoX\\X.WebApi\\X.WebApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sivis\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.2\\microsoft.visualstudio.azure.containers.tools.targets.1.17.2.nupkg.sha512"
+  ],
+  "logs": []
+}
