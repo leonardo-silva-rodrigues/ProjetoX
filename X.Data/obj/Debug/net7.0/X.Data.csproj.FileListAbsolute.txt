@@ -10,3 +10,6 @@ C:\Users\sivis\OneDrive\Desktop\projetoX\ProjetoX\X.Data\obj\Debug\net7.0\X.Data
 C:\Users\sivis\OneDrive\Desktop\projetoX\ProjetoX\X.Data\obj\Debug\net7.0\refint\X.Data.dll
 C:\Users\sivis\OneDrive\Desktop\projetoX\ProjetoX\X.Data\obj\Debug\net7.0\X.Data.pdb
 C:\Users\sivis\OneDrive\Desktop\projetoX\ProjetoX\X.Data\obj\Debug\net7.0\ref\X.Data.dll
+C:\Users\sivis\OneDrive\Desktop\projetoX\ProjetoX\X.Data\bin\Debug\net7.0\X.Core.dll
+C:\Users\sivis\OneDrive\Desktop\projetoX\ProjetoX\X.Data\bin\Debug\net7.0\X.Core.pdb
+C:\Users\sivis\OneDrive\Desktop\projetoX\ProjetoX\X.Data\obj\Debug\net7.0\X.Data.csproj.CopyComplete
